@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InterviewBasics.iml" filepath="$PROJECT_DIR$/InterviewBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icustomrv/icustomrv.iml" filepath="$PROJECT_DIR$/icustomrv/icustomrv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isimplerv/isimplerv.iml" filepath="$PROJECT_DIR$/isimplerv/isimplerv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ivp/ivp.iml" filepath="$PROJECT_DIR$/ivp/ivp.iml" />
+    </modules>
+  </component>
+</project>
